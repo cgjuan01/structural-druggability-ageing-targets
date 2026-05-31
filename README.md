@@ -4,7 +4,7 @@
 targets, combining **graph-neural-network target prioritisation**, **protein
 structure** (experimental PDB + **AlphaFold**), and **fpocket** binding-pocket
 detection. The pipeline takes targets ranked by a graph attention network and
-asks the next drug-discovery question: *are they structurally druggable?*
+asks the next drug discovery question: *are they structurally druggable?*
 
 Keywords: structure-based drug discovery · druggability · AlphaFold · fpocket ·
 binding-pocket detection · graph neural networks · target prioritisation ·
