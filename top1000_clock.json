@@ -1,0 +1,4002 @@
+[
+  {
+    "gene": "SMARCB1",
+    "gnn_rank": 6.0
+  },
+  {
+    "gene": "MGAT3",
+    "gnn_rank": 7.0
+  },
+  {
+    "gene": "TNFRSF13B",
+    "gnn_rank": 8.0
+  },
+  {
+    "gene": "RUNX3",
+    "gnn_rank": 9.0
+  },
+  {
+    "gene": "RUNX1",
+    "gnn_rank": 10.0
+  },
+  {
+    "gene": "ST6GAL1",
+    "gnn_rank": 11.0
+  },
+  {
+    "gene": "SERPINA1",
+    "gnn_rank": 16.0
+  },
+  {
+    "gene": "NRBP1",
+    "gnn_rank": 18.0
+  },
+  {
+    "gene": "GRAMD1B",
+    "gnn_rank": 19.0
+  },
+  {
+    "gene": "HEXIM1",
+    "gnn_rank": 20.0
+  },
+  {
+    "gene": "C3",
+    "gnn_rank": 28.0
+  },
+  {
+    "gene": "B3GAT1",
+    "gnn_rank": 29.0
+  },
+  {
+    "gene": "DCAKD",
+    "gnn_rank": 31.0
+  },
+  {
+    "gene": "MGAT5B",
+    "gnn_rank": 34.0
+  },
+  {
+    "gene": "KLC2",
+    "gnn_rank": 40.0
+  },
+  {
+    "gene": "ZNF365",
+    "gnn_rank": 42.0
+  },
+  {
+    "gene": "PLEKHM1",
+    "gnn_rank": 43.0
+  },
+  {
+    "gene": "LRRC37B",
+    "gnn_rank": 44.0
+  },
+  {
+    "gene": "MRFAP1",
+    "gnn_rank": 45.0
+  },
+  {
+    "gene": "SLC25A40",
+    "gnn_rank": 47.0
+  },
+  {
+    "gene": "C1QL1",
+    "gnn_rank": 57.0
+  },
+  {
+    "gene": "MAPT",
+    "gnn_rank": 59.0
+  },
+  {
+    "gene": "ACBD4",
+    "gnn_rank": 63.0
+  },
+  {
+    "gene": "PLEKHM1P",
+    "gnn_rank": 65.0
+  },
+  {
+    "gene": "ARHGAP27",
+    "gnn_rank": 66.0
+  },
+  {
+    "gene": "TMEM121",
+    "gnn_rank": 69.0
+  },
+  {
+    "gene": "NPEPPS",
+    "gnn_rank": 70.0
+  },
+  {
+    "gene": "RSL24D1",
+    "gnn_rank": 74.0
+  },
+  {
+    "gene": "CACNA2D4",
+    "gnn_rank": 76.0
+  },
+  {
+    "gene": "CHPF2",
+    "gnn_rank": 77.0
+  },
+  {
+    "gene": "ZNF280D",
+    "gnn_rank": 78.0
+  },
+  {
+    "gene": "TEX9",
+    "gnn_rank": 79.0
+  },
+  {
+    "gene": "TBX21",
+    "gnn_rank": 80.0
+  },
+  {
+    "gene": "RAB27A",
+    "gnn_rank": 82.0
+  },
+  {
+    "gene": "MGAT5",
+    "gnn_rank": 85.0
+  },
+  {
+    "gene": "EFCAB13",
+    "gnn_rank": 89.0
+  },
+  {
+    "gene": "FCGR3B",
+    "gnn_rank": 93.0
+  },
+  {
+    "gene": "FUT6",
+    "gnn_rank": 95.0
+  },
+  {
+    "gene": "ST3GAL4",
+    "gnn_rank": 96.0
+  },
+  {
+    "gene": "IKZF1",
+    "gnn_rank": 100.0
+  },
+  {
+    "gene": "SFTPD",
+    "gnn_rank": 101.0
+  },
+  {
+    "gene": "C5",
+    "gnn_rank": 102.0
+  },
+  {
+    "gene": "HIGD1B",
+    "gnn_rank": 104.0
+  },
+  {
+    "gene": "SIRT2",
+    "gnn_rank": 105.0
+  },
+  {
+    "gene": "RTN4R",
+    "gnn_rank": 108.0
+  },
+  {
+    "gene": "GP1BA",
+    "gnn_rank": 109.0
+  },
+  {
+    "gene": "GPATCH8",
+    "gnn_rank": 110.0
+  },
+  {
+    "gene": "CPQ",
+    "gnn_rank": 112.0
+  },
+  {
+    "gene": "LRRC37A4P",
+    "gnn_rank": 113.0
+  },
+  {
+    "gene": "MYL3",
+    "gnn_rank": 119.0
+  },
+  {
+    "gene": "MYL4",
+    "gnn_rank": 120.0
+  },
+  {
+    "gene": "SPINK1",
+    "gnn_rank": 122.0
+  },
+  {
+    "gene": "TNN",
+    "gnn_rank": 123.0
+  },
+  {
+    "gene": "SLURP1",
+    "gnn_rank": 124.0
+  },
+  {
+    "gene": "PLB1",
+    "gnn_rank": 125.0
+  },
+  {
+    "gene": "FGF21",
+    "gnn_rank": 128.0
+  },
+  {
+    "gene": "GPC5",
+    "gnn_rank": 132.0
+  },
+  {
+    "gene": "CDHR5",
+    "gnn_rank": 133.0
+  },
+  {
+    "gene": "SEMA3F",
+    "gnn_rank": 134.0
+  },
+  {
+    "gene": "DGCR6",
+    "gnn_rank": 136.0
+  },
+  {
+    "gene": "PSAP",
+    "gnn_rank": 137.0
+  },
+  {
+    "gene": "NT5C1A",
+    "gnn_rank": 138.0
+  },
+  {
+    "gene": "CPM",
+    "gnn_rank": 139.0
+  },
+  {
+    "gene": "APOA4",
+    "gnn_rank": 142.0
+  },
+  {
+    "gene": "EZR",
+    "gnn_rank": 144.0
+  },
+  {
+    "gene": "TXNDC15",
+    "gnn_rank": 146.0
+  },
+  {
+    "gene": "PLA2G15",
+    "gnn_rank": 147.0
+  },
+  {
+    "gene": "CNDP1",
+    "gnn_rank": 148.0
+  },
+  {
+    "gene": "HGFAC",
+    "gnn_rank": 149.0
+  },
+  {
+    "gene": "IDUA",
+    "gnn_rank": 150.0
+  },
+  {
+    "gene": "FRZB",
+    "gnn_rank": 152.0
+  },
+  {
+    "gene": "NAGA",
+    "gnn_rank": 153.0
+  },
+  {
+    "gene": "CRTAP",
+    "gnn_rank": 154.0
+  },
+  {
+    "gene": "MYBPC1",
+    "gnn_rank": 155.0
+  },
+  {
+    "gene": "CENPF",
+    "gnn_rank": 157.0
+  },
+  {
+    "gene": "FCN1",
+    "gnn_rank": 159.0
+  },
+  {
+    "gene": "FGFBP1",
+    "gnn_rank": 161.0
+  },
+  {
+    "gene": "DKK3",
+    "gnn_rank": 164.0
+  },
+  {
+    "gene": "SOD2",
+    "gnn_rank": 165.0
+  },
+  {
+    "gene": "ERMAP",
+    "gnn_rank": 166.0
+  },
+  {
+    "gene": "RCOR1",
+    "gnn_rank": 167.0
+  },
+  {
+    "gene": "KEL",
+    "gnn_rank": 168.0
+  },
+  {
+    "gene": "GPA33",
+    "gnn_rank": 169.0
+  },
+  {
+    "gene": "SPARC",
+    "gnn_rank": 170.0
+  },
+  {
+    "gene": "BPIFB2",
+    "gnn_rank": 172.0
+  },
+  {
+    "gene": "SMPDL3A",
+    "gnn_rank": 173.0
+  },
+  {
+    "gene": "PPT1",
+    "gnn_rank": 174.0
+  },
+  {
+    "gene": "EPCAM",
+    "gnn_rank": 175.0
+  },
+  {
+    "gene": "ARSA",
+    "gnn_rank": 177.0
+  },
+  {
+    "gene": "ADAMTSL2",
+    "gnn_rank": 178.0
+  },
+  {
+    "gene": "CA8",
+    "gnn_rank": 179.0
+  },
+  {
+    "gene": "HSPB6",
+    "gnn_rank": 180.0
+  },
+  {
+    "gene": "CDHR2",
+    "gnn_rank": 181.0
+  },
+  {
+    "gene": "MEP1A",
+    "gnn_rank": 184.0
+  },
+  {
+    "gene": "PDGFA",
+    "gnn_rank": 187.0
+  },
+  {
+    "gene": "CPB1",
+    "gnn_rank": 189.0
+  },
+  {
+    "gene": "IGFBP3",
+    "gnn_rank": 193.0
+  },
+  {
+    "gene": "AHSP",
+    "gnn_rank": 194.0
+  },
+  {
+    "gene": "PAPPA",
+    "gnn_rank": 195.0
+  },
+  {
+    "gene": "CLEC4G",
+    "gnn_rank": 196.0
+  },
+  {
+    "gene": "ASGR2",
+    "gnn_rank": 197.0
+  },
+  {
+    "gene": "ENPP2",
+    "gnn_rank": 198.0
+  },
+  {
+    "gene": "CELA2A",
+    "gnn_rank": 199.0
+  },
+  {
+    "gene": "INPP5J",
+    "gnn_rank": 202.0
+  },
+  {
+    "gene": "NPM1",
+    "gnn_rank": 203.0
+  },
+  {
+    "gene": "AMPD3",
+    "gnn_rank": 204.0
+  },
+  {
+    "gene": "HAGH",
+    "gnn_rank": 206.0
+  },
+  {
+    "gene": "CTSZ",
+    "gnn_rank": 207.0
+  },
+  {
+    "gene": "SPESP1",
+    "gnn_rank": 210.0
+  },
+  {
+    "gene": "EIF4EBP1",
+    "gnn_rank": 211.0
+  },
+  {
+    "gene": "MATN2",
+    "gnn_rank": 213.0
+  },
+  {
+    "gene": "NAAA",
+    "gnn_rank": 214.0
+  },
+  {
+    "gene": "RSPO3",
+    "gnn_rank": 215.0
+  },
+  {
+    "gene": "UBAC1",
+    "gnn_rank": 216.0
+  },
+  {
+    "gene": "GSN",
+    "gnn_rank": 217.0
+  },
+  {
+    "gene": "ADAMTSL5",
+    "gnn_rank": 219.0
+  },
+  {
+    "gene": "INSL5",
+    "gnn_rank": 221.0
+  },
+  {
+    "gene": "VCAN",
+    "gnn_rank": 224.0
+  },
+  {
+    "gene": "LAMB1",
+    "gnn_rank": 227.0
+  },
+  {
+    "gene": "PDGFB",
+    "gnn_rank": 228.0
+  },
+  {
+    "gene": "CCDC28A",
+    "gnn_rank": 229.0
+  },
+  {
+    "gene": "HBQ1",
+    "gnn_rank": 230.0
+  },
+  {
+    "gene": "CTSH",
+    "gnn_rank": 232.0
+  },
+  {
+    "gene": "RLN2",
+    "gnn_rank": 233.0
+  },
+  {
+    "gene": "PADI4",
+    "gnn_rank": 235.0
+  },
+  {
+    "gene": "ZCCHC8",
+    "gnn_rank": 236.0
+  },
+  {
+    "gene": "ADCYAP1R1",
+    "gnn_rank": 237.0
+  },
+  {
+    "gene": "ANGPTL3",
+    "gnn_rank": 238.0
+  },
+  {
+    "gene": "PLA2G7",
+    "gnn_rank": 239.0
+  },
+  {
+    "gene": "MST1",
+    "gnn_rank": 244.0
+  },
+  {
+    "gene": "NID2",
+    "gnn_rank": 245.0
+  },
+  {
+    "gene": "MYOM3",
+    "gnn_rank": 246.0
+  },
+  {
+    "gene": "SKAP1",
+    "gnn_rank": 247.0
+  },
+  {
+    "gene": "NGFR",
+    "gnn_rank": 248.0
+  },
+  {
+    "gene": "C8B",
+    "gnn_rank": 249.0
+  },
+  {
+    "gene": "HRG",
+    "gnn_rank": 251.0
+  },
+  {
+    "gene": "PDGFC",
+    "gnn_rank": 253.0
+  },
+  {
+    "gene": "PCOLCE",
+    "gnn_rank": 255.0
+  },
+  {
+    "gene": "RIDA",
+    "gnn_rank": 256.0
+  },
+  {
+    "gene": "FCAMR",
+    "gnn_rank": 257.0
+  },
+  {
+    "gene": "VNN1",
+    "gnn_rank": 258.0
+  },
+  {
+    "gene": "ZHX2",
+    "gnn_rank": 259.0
+  },
+  {
+    "gene": "UMOD",
+    "gnn_rank": 260.0
+  },
+  {
+    "gene": "GHR",
+    "gnn_rank": 264.0
+  },
+  {
+    "gene": "HNRNPUL1",
+    "gnn_rank": 265.0
+  },
+  {
+    "gene": "C9",
+    "gnn_rank": 267.0
+  },
+  {
+    "gene": "GDF15",
+    "gnn_rank": 273.0
+  },
+  {
+    "gene": "SGSH",
+    "gnn_rank": 275.0
+  },
+  {
+    "gene": "SIRT5",
+    "gnn_rank": 277.0
+  },
+  {
+    "gene": "ANGPTL7",
+    "gnn_rank": 279.0
+  },
+  {
+    "gene": "NSFL1C",
+    "gnn_rank": 280.0
+  },
+  {
+    "gene": "FCAR",
+    "gnn_rank": 282.0
+  },
+  {
+    "gene": "F11",
+    "gnn_rank": 285.0
+  },
+  {
+    "gene": "LRIG1",
+    "gnn_rank": 289.0
+  },
+  {
+    "gene": "TPM3",
+    "gnn_rank": 290.0
+  },
+  {
+    "gene": "CXCL6",
+    "gnn_rank": 291.0
+  },
+  {
+    "gene": "CSF1",
+    "gnn_rank": 293.0
+  },
+  {
+    "gene": "VWF",
+    "gnn_rank": 294.0
+  },
+  {
+    "gene": "KCNC4",
+    "gnn_rank": 296.0
+  },
+  {
+    "gene": "GNLY",
+    "gnn_rank": 297.0
+  },
+  {
+    "gene": "IL17D",
+    "gnn_rank": 298.0
+  },
+  {
+    "gene": "TRIM26",
+    "gnn_rank": 303.0
+  },
+  {
+    "gene": "HMBS",
+    "gnn_rank": 304.0
+  },
+  {
+    "gene": "TFF3",
+    "gnn_rank": 305.0
+  },
+  {
+    "gene": "MEGF10",
+    "gnn_rank": 306.0
+  },
+  {
+    "gene": "PON2",
+    "gnn_rank": 307.0
+  },
+  {
+    "gene": "CTSB",
+    "gnn_rank": 308.0
+  },
+  {
+    "gene": "VSNL1",
+    "gnn_rank": 312.0
+  },
+  {
+    "gene": "CCL11",
+    "gnn_rank": 313.0
+  },
+  {
+    "gene": "CTSL",
+    "gnn_rank": 318.0
+  },
+  {
+    "gene": "HLA-DRA",
+    "gnn_rank": 319.0
+  },
+  {
+    "gene": "VSTM2L",
+    "gnn_rank": 326.0
+  },
+  {
+    "gene": "MMP8",
+    "gnn_rank": 328.0
+  },
+  {
+    "gene": "NEDD4L",
+    "gnn_rank": 330.0
+  },
+  {
+    "gene": "AFM",
+    "gnn_rank": 331.0
+  },
+  {
+    "gene": "CST6",
+    "gnn_rank": 332.0
+  },
+  {
+    "gene": "PEBP1",
+    "gnn_rank": 333.0
+  },
+  {
+    "gene": "TXN",
+    "gnn_rank": 334.0
+  },
+  {
+    "gene": "INHBC",
+    "gnn_rank": 336.0
+  },
+  {
+    "gene": "MB",
+    "gnn_rank": 337.0
+  },
+  {
+    "gene": "C1RL",
+    "gnn_rank": 338.0
+  },
+  {
+    "gene": "FCN2",
+    "gnn_rank": 339.0
+  },
+  {
+    "gene": "CREG1",
+    "gnn_rank": 340.0
+  },
+  {
+    "gene": "ACAN",
+    "gnn_rank": 342.0
+  },
+  {
+    "gene": "GUSB",
+    "gnn_rank": 343.0
+  },
+  {
+    "gene": "GLB1",
+    "gnn_rank": 344.0
+  },
+  {
+    "gene": "PPBP",
+    "gnn_rank": 346.0
+  },
+  {
+    "gene": "FES",
+    "gnn_rank": 347.0
+  },
+  {
+    "gene": "IGFBPL1",
+    "gnn_rank": 348.0
+  },
+  {
+    "gene": "RARRES2",
+    "gnn_rank": 350.0
+  },
+  {
+    "gene": "REG1B",
+    "gnn_rank": 351.0
+  },
+  {
+    "gene": "C1R",
+    "gnn_rank": 355.0
+  },
+  {
+    "gene": "IL17F",
+    "gnn_rank": 356.0
+  },
+  {
+    "gene": "CLU",
+    "gnn_rank": 359.0
+  },
+  {
+    "gene": "ASAH2",
+    "gnn_rank": 360.0
+  },
+  {
+    "gene": "RSPO1",
+    "gnn_rank": 363.0
+  },
+  {
+    "gene": "SPON1",
+    "gnn_rank": 365.0
+  },
+  {
+    "gene": "TRAF3",
+    "gnn_rank": 368.0
+  },
+  {
+    "gene": "SIGLEC15",
+    "gnn_rank": 370.0
+  },
+  {
+    "gene": "NOS1",
+    "gnn_rank": 371.0
+  },
+  {
+    "gene": "PLXDC1",
+    "gnn_rank": 372.0
+  },
+  {
+    "gene": "HDAC9",
+    "gnn_rank": 374.0
+  },
+  {
+    "gene": "CARHSP1",
+    "gnn_rank": 376.0
+  },
+  {
+    "gene": "PKD2",
+    "gnn_rank": 377.0
+  },
+  {
+    "gene": "BOLA1",
+    "gnn_rank": 378.0
+  },
+  {
+    "gene": "SCN4B",
+    "gnn_rank": 379.0
+  },
+  {
+    "gene": "IGFBP4",
+    "gnn_rank": 381.0
+  },
+  {
+    "gene": "CTBS",
+    "gnn_rank": 383.0
+  },
+  {
+    "gene": "ABCA2",
+    "gnn_rank": 384.0
+  },
+  {
+    "gene": "DNAJC9",
+    "gnn_rank": 388.0
+  },
+  {
+    "gene": "CLEC4A",
+    "gnn_rank": 390.0
+  },
+  {
+    "gene": "UBXN1",
+    "gnn_rank": 392.0
+  },
+  {
+    "gene": "COL9A1",
+    "gnn_rank": 393.0
+  },
+  {
+    "gene": "PTH1R",
+    "gnn_rank": 394.0
+  },
+  {
+    "gene": "RASSF2",
+    "gnn_rank": 396.0
+  },
+  {
+    "gene": "SLAMF1",
+    "gnn_rank": 397.0
+  },
+  {
+    "gene": "ORM1",
+    "gnn_rank": 398.0
+  },
+  {
+    "gene": "PSMG4",
+    "gnn_rank": 399.0
+  },
+  {
+    "gene": "MMP9",
+    "gnn_rank": 400.0
+  },
+  {
+    "gene": "VEGFA",
+    "gnn_rank": 401.0
+  },
+  {
+    "gene": "CD3G",
+    "gnn_rank": 402.0
+  },
+  {
+    "gene": "S100A14",
+    "gnn_rank": 403.0
+  },
+  {
+    "gene": "KLK13",
+    "gnn_rank": 404.0
+  },
+  {
+    "gene": "DEFB4A",
+    "gnn_rank": 406.0
+  },
+  {
+    "gene": "SRP14",
+    "gnn_rank": 407.0
+  },
+  {
+    "gene": "PYGO1",
+    "gnn_rank": 408.0
+  },
+  {
+    "gene": "BPTF",
+    "gnn_rank": 409.0
+  },
+  {
+    "gene": "MYOM2",
+    "gnn_rank": 410.0
+  },
+  {
+    "gene": "WNT3",
+    "gnn_rank": 411.0
+  },
+  {
+    "gene": "IL31RA",
+    "gnn_rank": 412.0
+  },
+  {
+    "gene": "DCTN1",
+    "gnn_rank": 413.0
+  },
+  {
+    "gene": "GGH",
+    "gnn_rank": 414.0
+  },
+  {
+    "gene": "DPEP1",
+    "gnn_rank": 416.0
+  },
+  {
+    "gene": "CDC42BPB",
+    "gnn_rank": 417.0
+  },
+  {
+    "gene": "CFB",
+    "gnn_rank": 418.0
+  },
+  {
+    "gene": "NDUFS6",
+    "gnn_rank": 419.0
+  },
+  {
+    "gene": "CLEC4D",
+    "gnn_rank": 421.0
+  },
+  {
+    "gene": "GP2",
+    "gnn_rank": 422.0
+  },
+  {
+    "gene": "EFNB2",
+    "gnn_rank": 423.0
+  },
+  {
+    "gene": "CTSE",
+    "gnn_rank": 424.0
+  },
+  {
+    "gene": "ISM1",
+    "gnn_rank": 425.0
+  },
+  {
+    "gene": "SERPINA6",
+    "gnn_rank": 426.0
+  },
+  {
+    "gene": "PTPRZ1",
+    "gnn_rank": 427.0
+  },
+  {
+    "gene": "VMO1",
+    "gnn_rank": 428.0
+  },
+  {
+    "gene": "PROC",
+    "gnn_rank": 429.0
+  },
+  {
+    "gene": "FGFR4",
+    "gnn_rank": 430.0
+  },
+  {
+    "gene": "TNNI3",
+    "gnn_rank": 431.0
+  },
+  {
+    "gene": "ENPP5",
+    "gnn_rank": 432.0
+  },
+  {
+    "gene": "PPIE",
+    "gnn_rank": 438.0
+  },
+  {
+    "gene": "GFRA3",
+    "gnn_rank": 439.0
+  },
+  {
+    "gene": "TTR",
+    "gnn_rank": 440.0
+  },
+  {
+    "gene": "FABP3",
+    "gnn_rank": 441.0
+  },
+  {
+    "gene": "THBS2",
+    "gnn_rank": 442.0
+  },
+  {
+    "gene": "SCG2",
+    "gnn_rank": 445.0
+  },
+  {
+    "gene": "GALNT3",
+    "gnn_rank": 446.0
+  },
+  {
+    "gene": "CD8A",
+    "gnn_rank": 447.0
+  },
+  {
+    "gene": "GP5",
+    "gnn_rank": 448.0
+  },
+  {
+    "gene": "DNPH1",
+    "gnn_rank": 449.0
+  },
+  {
+    "gene": "MYBPC2",
+    "gnn_rank": 453.0
+  },
+  {
+    "gene": "MFGE8",
+    "gnn_rank": 454.0
+  },
+  {
+    "gene": "ITGB6",
+    "gnn_rank": 458.0
+  },
+  {
+    "gene": "ACHE",
+    "gnn_rank": 459.0
+  },
+  {
+    "gene": "ITIH3",
+    "gnn_rank": 460.0
+  },
+  {
+    "gene": "CSF2",
+    "gnn_rank": 461.0
+  },
+  {
+    "gene": "APOA1",
+    "gnn_rank": 462.0
+  },
+  {
+    "gene": "MAEA",
+    "gnn_rank": 464.0
+  },
+  {
+    "gene": "F3",
+    "gnn_rank": 467.0
+  },
+  {
+    "gene": "F7",
+    "gnn_rank": 468.0
+  },
+  {
+    "gene": "SUGP1",
+    "gnn_rank": 469.0
+  },
+  {
+    "gene": "GZMB",
+    "gnn_rank": 470.0
+  },
+  {
+    "gene": "IL1RN",
+    "gnn_rank": 471.0
+  },
+  {
+    "gene": "NEDD4",
+    "gnn_rank": 473.0
+  },
+  {
+    "gene": "NEB",
+    "gnn_rank": 474.0
+  },
+  {
+    "gene": "GSTM4",
+    "gnn_rank": 475.0
+  },
+  {
+    "gene": "RNASE6",
+    "gnn_rank": 476.0
+  },
+  {
+    "gene": "QSOX1",
+    "gnn_rank": 478.0
+  },
+  {
+    "gene": "HS6ST1",
+    "gnn_rank": 482.0
+  },
+  {
+    "gene": "CTRB1",
+    "gnn_rank": 483.0
+  },
+  {
+    "gene": "HGF",
+    "gnn_rank": 485.0
+  },
+  {
+    "gene": "TET2",
+    "gnn_rank": 486.0
+  },
+  {
+    "gene": "IL19",
+    "gnn_rank": 487.0
+  },
+  {
+    "gene": "MORF4L1",
+    "gnn_rank": 488.0
+  },
+  {
+    "gene": "CPE",
+    "gnn_rank": 489.0
+  },
+  {
+    "gene": "IL20RB",
+    "gnn_rank": 490.0
+  },
+  {
+    "gene": "FBLN2",
+    "gnn_rank": 492.0
+  },
+  {
+    "gene": "SHH",
+    "gnn_rank": 493.0
+  },
+  {
+    "gene": "GALNT2",
+    "gnn_rank": 494.0
+  },
+  {
+    "gene": "RGMB",
+    "gnn_rank": 495.0
+  },
+  {
+    "gene": "SSB",
+    "gnn_rank": 496.0
+  },
+  {
+    "gene": "EPHA4",
+    "gnn_rank": 501.0
+  },
+  {
+    "gene": "CALCB",
+    "gnn_rank": 502.0
+  },
+  {
+    "gene": "PF4",
+    "gnn_rank": 503.0
+  },
+  {
+    "gene": "HEBP1",
+    "gnn_rank": 506.0
+  },
+  {
+    "gene": "CD7",
+    "gnn_rank": 507.0
+  },
+  {
+    "gene": "FLT1",
+    "gnn_rank": 508.0
+  },
+  {
+    "gene": "ANKRD54",
+    "gnn_rank": 509.0
+  },
+  {
+    "gene": "TNR",
+    "gnn_rank": 510.0
+  },
+  {
+    "gene": "ERC2",
+    "gnn_rank": 512.0
+  },
+  {
+    "gene": "PPY",
+    "gnn_rank": 514.0
+  },
+  {
+    "gene": "GSTP1",
+    "gnn_rank": 516.0
+  },
+  {
+    "gene": "CRIP2",
+    "gnn_rank": 517.0
+  },
+  {
+    "gene": "PRR4",
+    "gnn_rank": 518.0
+  },
+  {
+    "gene": "SERPINC1",
+    "gnn_rank": 521.0
+  },
+  {
+    "gene": "SMNDC1",
+    "gnn_rank": 522.0
+  },
+  {
+    "gene": "HMGCS1",
+    "gnn_rank": 523.0
+  },
+  {
+    "gene": "GGT5",
+    "gnn_rank": 524.0
+  },
+  {
+    "gene": "ANGPT1",
+    "gnn_rank": 525.0
+  },
+  {
+    "gene": "OSM",
+    "gnn_rank": 527.0
+  },
+  {
+    "gene": "SFTPA1",
+    "gnn_rank": 531.0
+  },
+  {
+    "gene": "RBP7",
+    "gnn_rank": 532.0
+  },
+  {
+    "gene": "SUSD5",
+    "gnn_rank": 533.0
+  },
+  {
+    "gene": "HPGDS",
+    "gnn_rank": 535.0
+  },
+  {
+    "gene": "CCL24",
+    "gnn_rank": 536.0
+  },
+  {
+    "gene": "CYTL1",
+    "gnn_rank": 538.0
+  },
+  {
+    "gene": "IL1B",
+    "gnn_rank": 541.0
+  },
+  {
+    "gene": "EPHB4",
+    "gnn_rank": 542.0
+  },
+  {
+    "gene": "MNDA",
+    "gnn_rank": 543.0
+  },
+  {
+    "gene": "ADAMTS13",
+    "gnn_rank": 545.0
+  },
+  {
+    "gene": "TSLP",
+    "gnn_rank": 547.0
+  },
+  {
+    "gene": "WWP2",
+    "gnn_rank": 548.0
+  },
+  {
+    "gene": "ERN1",
+    "gnn_rank": 549.0
+  },
+  {
+    "gene": "SH3GLB2",
+    "gnn_rank": 550.0
+  },
+  {
+    "gene": "FHIT",
+    "gnn_rank": 551.0
+  },
+  {
+    "gene": "LMNB2",
+    "gnn_rank": 553.0
+  },
+  {
+    "gene": "MMP13",
+    "gnn_rank": 554.0
+  },
+  {
+    "gene": "KIR2DL3",
+    "gnn_rank": 555.0
+  },
+  {
+    "gene": "REG1A",
+    "gnn_rank": 556.0
+  },
+  {
+    "gene": "ITIH4",
+    "gnn_rank": 557.0
+  },
+  {
+    "gene": "CDH5",
+    "gnn_rank": 559.0
+  },
+  {
+    "gene": "CA3",
+    "gnn_rank": 560.0
+  },
+  {
+    "gene": "STX3",
+    "gnn_rank": 563.0
+  },
+  {
+    "gene": "SNAP25",
+    "gnn_rank": 564.0
+  },
+  {
+    "gene": "VAMP8",
+    "gnn_rank": 565.0
+  },
+  {
+    "gene": "SERPINE1",
+    "gnn_rank": 566.0
+  },
+  {
+    "gene": "CTLA4",
+    "gnn_rank": 570.0
+  },
+  {
+    "gene": "CASP10",
+    "gnn_rank": 573.0
+  },
+  {
+    "gene": "WNT9B",
+    "gnn_rank": 574.0
+  },
+  {
+    "gene": "IL5",
+    "gnn_rank": 575.0
+  },
+  {
+    "gene": "SFTPA2",
+    "gnn_rank": 576.0
+  },
+  {
+    "gene": "PI16",
+    "gnn_rank": 577.0
+  },
+  {
+    "gene": "CANT1",
+    "gnn_rank": 578.0
+  },
+  {
+    "gene": "SART1",
+    "gnn_rank": 580.0
+  },
+  {
+    "gene": "CRYM",
+    "gnn_rank": 581.0
+  },
+  {
+    "gene": "TPRKB",
+    "gnn_rank": 582.0
+  },
+  {
+    "gene": "SERPINA7",
+    "gnn_rank": 584.0
+  },
+  {
+    "gene": "F10",
+    "gnn_rank": 585.0
+  },
+  {
+    "gene": "NTF3",
+    "gnn_rank": 589.0
+  },
+  {
+    "gene": "SPARCL1",
+    "gnn_rank": 591.0
+  },
+  {
+    "gene": "SLAMF7",
+    "gnn_rank": 592.0
+  },
+  {
+    "gene": "GM2A",
+    "gnn_rank": 594.0
+  },
+  {
+    "gene": "SERPIND1",
+    "gnn_rank": 595.0
+  },
+  {
+    "gene": "DDX39A",
+    "gnn_rank": 596.0
+  },
+  {
+    "gene": "PCSK9",
+    "gnn_rank": 597.0
+  },
+  {
+    "gene": "FLRT2",
+    "gnn_rank": 598.0
+  },
+  {
+    "gene": "FNDC1",
+    "gnn_rank": 599.0
+  },
+  {
+    "gene": "FAM3B",
+    "gnn_rank": 601.0
+  },
+  {
+    "gene": "NFASC",
+    "gnn_rank": 603.0
+  },
+  {
+    "gene": "SPINK5",
+    "gnn_rank": 605.0
+  },
+  {
+    "gene": "LHPP",
+    "gnn_rank": 608.0
+  },
+  {
+    "gene": "TOP1",
+    "gnn_rank": 609.0
+  },
+  {
+    "gene": "NUB1",
+    "gnn_rank": 611.0
+  },
+  {
+    "gene": "SERPINF2",
+    "gnn_rank": 613.0
+  },
+  {
+    "gene": "MANEAL",
+    "gnn_rank": 617.0
+  },
+  {
+    "gene": "CPOX",
+    "gnn_rank": 619.0
+  },
+  {
+    "gene": "SDC4",
+    "gnn_rank": 620.0
+  },
+  {
+    "gene": "SIT1",
+    "gnn_rank": 621.0
+  },
+  {
+    "gene": "SPINK4",
+    "gnn_rank": 622.0
+  },
+  {
+    "gene": "CTRL",
+    "gnn_rank": 625.0
+  },
+  {
+    "gene": "TXNL1",
+    "gnn_rank": 627.0
+  },
+  {
+    "gene": "CFHR2",
+    "gnn_rank": 629.0
+  },
+  {
+    "gene": "CPA1",
+    "gnn_rank": 630.0
+  },
+  {
+    "gene": "PRUNE2",
+    "gnn_rank": 632.0
+  },
+  {
+    "gene": "PCDH1",
+    "gnn_rank": 633.0
+  },
+  {
+    "gene": "CRTAC1",
+    "gnn_rank": 634.0
+  },
+  {
+    "gene": "VEGFC",
+    "gnn_rank": 636.0
+  },
+  {
+    "gene": "IMPACT",
+    "gnn_rank": 639.0
+  },
+  {
+    "gene": "PRTG",
+    "gnn_rank": 640.0
+  },
+  {
+    "gene": "CRELD1",
+    "gnn_rank": 641.0
+  },
+  {
+    "gene": "GLT8D2",
+    "gnn_rank": 642.0
+  },
+  {
+    "gene": "ERCC1",
+    "gnn_rank": 643.0
+  },
+  {
+    "gene": "PADI2",
+    "gnn_rank": 645.0
+  },
+  {
+    "gene": "ITGBL1",
+    "gnn_rank": 648.0
+  },
+  {
+    "gene": "S100A12",
+    "gnn_rank": 649.0
+  },
+  {
+    "gene": "GPC1",
+    "gnn_rank": 650.0
+  },
+  {
+    "gene": "NLGN1",
+    "gnn_rank": 653.0
+  },
+  {
+    "gene": "POMC",
+    "gnn_rank": 654.0
+  },
+  {
+    "gene": "TSPAN1",
+    "gnn_rank": 655.0
+  },
+  {
+    "gene": "DUSP13",
+    "gnn_rank": 658.0
+  },
+  {
+    "gene": "PSMG3",
+    "gnn_rank": 660.0
+  },
+  {
+    "gene": "TNFRSF12A",
+    "gnn_rank": 661.0
+  },
+  {
+    "gene": "TREH",
+    "gnn_rank": 662.0
+  },
+  {
+    "gene": "CFD",
+    "gnn_rank": 663.0
+  },
+  {
+    "gene": "PRKD2",
+    "gnn_rank": 665.0
+  },
+  {
+    "gene": "COMMD1",
+    "gnn_rank": 666.0
+  },
+  {
+    "gene": "APOC1",
+    "gnn_rank": 669.0
+  },
+  {
+    "gene": "INPP5D",
+    "gnn_rank": 670.0
+  },
+  {
+    "gene": "IL2RA",
+    "gnn_rank": 671.0
+  },
+  {
+    "gene": "EFNA1",
+    "gnn_rank": 672.0
+  },
+  {
+    "gene": "LILRA4",
+    "gnn_rank": 674.0
+  },
+  {
+    "gene": "YWHAQ",
+    "gnn_rank": 676.0
+  },
+  {
+    "gene": "AMBP",
+    "gnn_rank": 679.0
+  },
+  {
+    "gene": "DCUN1D1",
+    "gnn_rank": 681.0
+  },
+  {
+    "gene": "NIT1",
+    "gnn_rank": 683.0
+  },
+  {
+    "gene": "ACTN2",
+    "gnn_rank": 684.0
+  },
+  {
+    "gene": "BST1",
+    "gnn_rank": 687.0
+  },
+  {
+    "gene": "KIAA1549",
+    "gnn_rank": 689.0
+  },
+  {
+    "gene": "COL5A1",
+    "gnn_rank": 690.0
+  },
+  {
+    "gene": "PDIA5",
+    "gnn_rank": 691.0
+  },
+  {
+    "gene": "GZMH",
+    "gnn_rank": 692.0
+  },
+  {
+    "gene": "CACNA1H",
+    "gnn_rank": 698.0
+  },
+  {
+    "gene": "CRH",
+    "gnn_rank": 699.0
+  },
+  {
+    "gene": "RUVBL1",
+    "gnn_rank": 700.0
+  },
+  {
+    "gene": "TBCA",
+    "gnn_rank": 701.0
+  },
+  {
+    "gene": "VNN2",
+    "gnn_rank": 702.0
+  },
+  {
+    "gene": "PCDH7",
+    "gnn_rank": 705.0
+  },
+  {
+    "gene": "SMOC1",
+    "gnn_rank": 706.0
+  },
+  {
+    "gene": "S100A4",
+    "gnn_rank": 707.0
+  },
+  {
+    "gene": "ITGAX",
+    "gnn_rank": 708.0
+  },
+  {
+    "gene": "TDP1",
+    "gnn_rank": 709.0
+  },
+  {
+    "gene": "GPIHBP1",
+    "gnn_rank": 711.0
+  },
+  {
+    "gene": "RRM2B",
+    "gnn_rank": 712.0
+  },
+  {
+    "gene": "PRSS22",
+    "gnn_rank": 713.0
+  },
+  {
+    "gene": "ADM",
+    "gnn_rank": 714.0
+  },
+  {
+    "gene": "GIP",
+    "gnn_rank": 715.0
+  },
+  {
+    "gene": "CSPG4",
+    "gnn_rank": 716.0
+  },
+  {
+    "gene": "BTC",
+    "gnn_rank": 719.0
+  },
+  {
+    "gene": "MICB",
+    "gnn_rank": 721.0
+  },
+  {
+    "gene": "SCAMP3",
+    "gnn_rank": 722.0
+  },
+  {
+    "gene": "SELPLG",
+    "gnn_rank": 726.0
+  },
+  {
+    "gene": "MEP1B",
+    "gnn_rank": 728.0
+  },
+  {
+    "gene": "CPPED1",
+    "gnn_rank": 729.0
+  },
+  {
+    "gene": "TGFBR1",
+    "gnn_rank": 730.0
+  },
+  {
+    "gene": "CTSF",
+    "gnn_rank": 734.0
+  },
+  {
+    "gene": "SEL1L",
+    "gnn_rank": 737.0
+  },
+  {
+    "gene": "RNASE1",
+    "gnn_rank": 739.0
+  },
+  {
+    "gene": "IL1RAP",
+    "gnn_rank": 740.0
+  },
+  {
+    "gene": "CPXM2",
+    "gnn_rank": 741.0
+  },
+  {
+    "gene": "MAP1LC3A",
+    "gnn_rank": 742.0
+  },
+  {
+    "gene": "BOC",
+    "gnn_rank": 744.0
+  },
+  {
+    "gene": "CCL23",
+    "gnn_rank": 745.0
+  },
+  {
+    "gene": "LECT2",
+    "gnn_rank": 746.0
+  },
+  {
+    "gene": "DFFA",
+    "gnn_rank": 748.0
+  },
+  {
+    "gene": "LBR",
+    "gnn_rank": 749.0
+  },
+  {
+    "gene": "SUSD4",
+    "gnn_rank": 750.0
+  },
+  {
+    "gene": "PON1",
+    "gnn_rank": 751.0
+  },
+  {
+    "gene": "GGCT",
+    "gnn_rank": 752.0
+  },
+  {
+    "gene": "TRAF2",
+    "gnn_rank": 754.0
+  },
+  {
+    "gene": "CD3D",
+    "gnn_rank": 756.0
+  },
+  {
+    "gene": "SIL1",
+    "gnn_rank": 757.0
+  },
+  {
+    "gene": "PSME1",
+    "gnn_rank": 762.0
+  },
+  {
+    "gene": "ARHGAP5",
+    "gnn_rank": 763.0
+  },
+  {
+    "gene": "MYH9",
+    "gnn_rank": 764.0
+  },
+  {
+    "gene": "CAPG",
+    "gnn_rank": 766.0
+  },
+  {
+    "gene": "PPCDC",
+    "gnn_rank": 768.0
+  },
+  {
+    "gene": "RBP2",
+    "gnn_rank": 770.0
+  },
+  {
+    "gene": "TNFRSF11B",
+    "gnn_rank": 771.0
+  },
+  {
+    "gene": "TP53BP1",
+    "gnn_rank": 772.0
+  },
+  {
+    "gene": "APOA2",
+    "gnn_rank": 773.0
+  },
+  {
+    "gene": "FGFBP2",
+    "gnn_rank": 775.0
+  },
+  {
+    "gene": "MEGF9",
+    "gnn_rank": 776.0
+  },
+  {
+    "gene": "IGFBP6",
+    "gnn_rank": 777.0
+  },
+  {
+    "gene": "ASPSCR1",
+    "gnn_rank": 780.0
+  },
+  {
+    "gene": "PROK1",
+    "gnn_rank": 781.0
+  },
+  {
+    "gene": "AFAP1",
+    "gnn_rank": 782.0
+  },
+  {
+    "gene": "CD63",
+    "gnn_rank": 784.0
+  },
+  {
+    "gene": "SEMA7A",
+    "gnn_rank": 785.0
+  },
+  {
+    "gene": "KITLG",
+    "gnn_rank": 786.0
+  },
+  {
+    "gene": "SORD",
+    "gnn_rank": 788.0
+  },
+  {
+    "gene": "DTNB",
+    "gnn_rank": 790.0
+  },
+  {
+    "gene": "CXCL5",
+    "gnn_rank": 791.0
+  },
+  {
+    "gene": "CADPS",
+    "gnn_rank": 792.0
+  },
+  {
+    "gene": "NCF2",
+    "gnn_rank": 793.0
+  },
+  {
+    "gene": "PRTN3",
+    "gnn_rank": 795.0
+  },
+  {
+    "gene": "SLC44A4",
+    "gnn_rank": 797.0
+  },
+  {
+    "gene": "COL15A1",
+    "gnn_rank": 798.0
+  },
+  {
+    "gene": "TPR",
+    "gnn_rank": 799.0
+  },
+  {
+    "gene": "GHRHR",
+    "gnn_rank": 800.0
+  },
+  {
+    "gene": "VCPKMT",
+    "gnn_rank": 802.0
+  },
+  {
+    "gene": "ADAMTS15",
+    "gnn_rank": 805.0
+  },
+  {
+    "gene": "ADD1",
+    "gnn_rank": 807.0
+  },
+  {
+    "gene": "CHIT1",
+    "gnn_rank": 809.0
+  },
+  {
+    "gene": "BMPER",
+    "gnn_rank": 810.0
+  },
+  {
+    "gene": "LCN15",
+    "gnn_rank": 811.0
+  },
+  {
+    "gene": "NPPB",
+    "gnn_rank": 813.0
+  },
+  {
+    "gene": "SP6",
+    "gnn_rank": 814.0
+  },
+  {
+    "gene": "TGFB1",
+    "gnn_rank": 815.0
+  },
+  {
+    "gene": "TK1",
+    "gnn_rank": 819.0
+  },
+  {
+    "gene": "ARHGEF10",
+    "gnn_rank": 821.0
+  },
+  {
+    "gene": "ARHGEF12",
+    "gnn_rank": 822.0
+  },
+  {
+    "gene": "MMP7",
+    "gnn_rank": 823.0
+  },
+  {
+    "gene": "SNX2",
+    "gnn_rank": 824.0
+  },
+  {
+    "gene": "CASP8",
+    "gnn_rank": 825.0
+  },
+  {
+    "gene": "C19orf12",
+    "gnn_rank": 826.0
+  },
+  {
+    "gene": "PGF",
+    "gnn_rank": 827.0
+  },
+  {
+    "gene": "PER3",
+    "gnn_rank": 829.0
+  },
+  {
+    "gene": "CTF1",
+    "gnn_rank": 830.0
+  },
+  {
+    "gene": "AMBN",
+    "gnn_rank": 831.0
+  },
+  {
+    "gene": "CDAN1",
+    "gnn_rank": 832.0
+  },
+  {
+    "gene": "NFIC",
+    "gnn_rank": 833.0
+  },
+  {
+    "gene": "FSTL1",
+    "gnn_rank": 834.0
+  },
+  {
+    "gene": "DNLZ",
+    "gnn_rank": 835.0
+  },
+  {
+    "gene": "LAYN",
+    "gnn_rank": 837.0
+  },
+  {
+    "gene": "SMPD3",
+    "gnn_rank": 841.0
+  },
+  {
+    "gene": "EREG",
+    "gnn_rank": 842.0
+  },
+  {
+    "gene": "NECAP2",
+    "gnn_rank": 843.0
+  },
+  {
+    "gene": "TTN",
+    "gnn_rank": 845.0
+  },
+  {
+    "gene": "EIF5A",
+    "gnn_rank": 846.0
+  },
+  {
+    "gene": "GNPDA1",
+    "gnn_rank": 847.0
+  },
+  {
+    "gene": "RNF168",
+    "gnn_rank": 848.0
+  },
+  {
+    "gene": "CD2AP",
+    "gnn_rank": 849.0
+  },
+  {
+    "gene": "BCL7A",
+    "gnn_rank": 850.0
+  },
+  {
+    "gene": "PRSS2",
+    "gnn_rank": 852.0
+  },
+  {
+    "gene": "PARK7",
+    "gnn_rank": 853.0
+  },
+  {
+    "gene": "CD160",
+    "gnn_rank": 854.0
+  },
+  {
+    "gene": "CPLX2",
+    "gnn_rank": 855.0
+  },
+  {
+    "gene": "UROS",
+    "gnn_rank": 856.0
+  },
+  {
+    "gene": "DTYMK",
+    "gnn_rank": 859.0
+  },
+  {
+    "gene": "IDI2",
+    "gnn_rank": 862.0
+  },
+  {
+    "gene": "NDST1",
+    "gnn_rank": 864.0
+  },
+  {
+    "gene": "CCL5",
+    "gnn_rank": 868.0
+  },
+  {
+    "gene": "SHC1",
+    "gnn_rank": 869.0
+  },
+  {
+    "gene": "CCAR2",
+    "gnn_rank": 872.0
+  },
+  {
+    "gene": "PLIN1",
+    "gnn_rank": 873.0
+  },
+  {
+    "gene": "COL2A1",
+    "gnn_rank": 874.0
+  },
+  {
+    "gene": "CAMSAP1",
+    "gnn_rank": 876.0
+  },
+  {
+    "gene": "INSL3",
+    "gnn_rank": 878.0
+  },
+  {
+    "gene": "PAG1",
+    "gnn_rank": 879.0
+  },
+  {
+    "gene": "REEP4",
+    "gnn_rank": 880.0
+  },
+  {
+    "gene": "FETUB",
+    "gnn_rank": 881.0
+  },
+  {
+    "gene": "A1BG",
+    "gnn_rank": 882.0
+  },
+  {
+    "gene": "BMP10",
+    "gnn_rank": 883.0
+  },
+  {
+    "gene": "CD59",
+    "gnn_rank": 884.0
+  },
+  {
+    "gene": "CD83",
+    "gnn_rank": 886.0
+  },
+  {
+    "gene": "KLHL41",
+    "gnn_rank": 888.0
+  },
+  {
+    "gene": "BID",
+    "gnn_rank": 890.0
+  },
+  {
+    "gene": "CD4",
+    "gnn_rank": 891.0
+  },
+  {
+    "gene": "HNRNPK",
+    "gnn_rank": 892.0
+  },
+  {
+    "gene": "CRADD",
+    "gnn_rank": 894.0
+  },
+  {
+    "gene": "GCG",
+    "gnn_rank": 895.0
+  },
+  {
+    "gene": "SPTBN2",
+    "gnn_rank": 896.0
+  },
+  {
+    "gene": "GAD1",
+    "gnn_rank": 897.0
+  },
+  {
+    "gene": "BTLA",
+    "gnn_rank": 898.0
+  },
+  {
+    "gene": "SMAD3",
+    "gnn_rank": 899.0
+  },
+  {
+    "gene": "PLG",
+    "gnn_rank": 900.0
+  },
+  {
+    "gene": "CELA3A",
+    "gnn_rank": 902.0
+  },
+  {
+    "gene": "AHSG",
+    "gnn_rank": 904.0
+  },
+  {
+    "gene": "EFEMP1",
+    "gnn_rank": 905.0
+  },
+  {
+    "gene": "SFRP1",
+    "gnn_rank": 907.0
+  },
+  {
+    "gene": "EGFR",
+    "gnn_rank": 908.0
+  },
+  {
+    "gene": "BCR",
+    "gnn_rank": 909.0
+  },
+  {
+    "gene": "AGBL2",
+    "gnn_rank": 911.0
+  },
+  {
+    "gene": "LPA",
+    "gnn_rank": 913.0
+  },
+  {
+    "gene": "IL7",
+    "gnn_rank": 916.0
+  },
+  {
+    "gene": "CEACAM3",
+    "gnn_rank": 917.0
+  },
+  {
+    "gene": "SELP",
+    "gnn_rank": 918.0
+  },
+  {
+    "gene": "CKB",
+    "gnn_rank": 919.0
+  },
+  {
+    "gene": "MAPKAPK2",
+    "gnn_rank": 921.0
+  },
+  {
+    "gene": "SERPINA11",
+    "gnn_rank": 923.0
+  },
+  {
+    "gene": "PRDX6",
+    "gnn_rank": 924.0
+  },
+  {
+    "gene": "DNM3",
+    "gnn_rank": 926.0
+  },
+  {
+    "gene": "VPS53",
+    "gnn_rank": 927.0
+  },
+  {
+    "gene": "IL22RA1",
+    "gnn_rank": 929.0
+  },
+  {
+    "gene": "PSMA1",
+    "gnn_rank": 930.0
+  },
+  {
+    "gene": "RELT",
+    "gnn_rank": 931.0
+  },
+  {
+    "gene": "TNFRSF10B",
+    "gnn_rank": 932.0
+  },
+  {
+    "gene": "IGFBP2",
+    "gnn_rank": 934.0
+  },
+  {
+    "gene": "SLK",
+    "gnn_rank": 935.0
+  },
+  {
+    "gene": "CSH1",
+    "gnn_rank": 938.0
+  },
+  {
+    "gene": "F9",
+    "gnn_rank": 940.0
+  },
+  {
+    "gene": "HS1BP3",
+    "gnn_rank": 941.0
+  },
+  {
+    "gene": "SCGB3A1",
+    "gnn_rank": 942.0
+  },
+  {
+    "gene": "EGLN1",
+    "gnn_rank": 944.0
+  },
+  {
+    "gene": "SEZ6L2",
+    "gnn_rank": 945.0
+  },
+  {
+    "gene": "PMCH",
+    "gnn_rank": 946.0
+  },
+  {
+    "gene": "MUC13",
+    "gnn_rank": 947.0
+  },
+  {
+    "gene": "APOF",
+    "gnn_rank": 949.0
+  },
+  {
+    "gene": "NPY",
+    "gnn_rank": 950.0
+  },
+  {
+    "gene": "KIR2DS4",
+    "gnn_rank": 954.0
+  },
+  {
+    "gene": "TERF1",
+    "gnn_rank": 955.0
+  },
+  {
+    "gene": "BAIAP2",
+    "gnn_rank": 956.0
+  },
+  {
+    "gene": "OTUD7B",
+    "gnn_rank": 957.0
+  },
+  {
+    "gene": "ANG",
+    "gnn_rank": 958.0
+  },
+  {
+    "gene": "KRT14",
+    "gnn_rank": 959.0
+  },
+  {
+    "gene": "OPTC",
+    "gnn_rank": 960.0
+  },
+  {
+    "gene": "PGLYRP2",
+    "gnn_rank": 962.0
+  },
+  {
+    "gene": "CEP112",
+    "gnn_rank": 963.0
+  },
+  {
+    "gene": "ESR1",
+    "gnn_rank": 964.0
+  },
+  {
+    "gene": "ESM1",
+    "gnn_rank": 965.0
+  },
+  {
+    "gene": "CXCL12",
+    "gnn_rank": 966.0
+  },
+  {
+    "gene": "CCNE1",
+    "gnn_rank": 967.0
+  },
+  {
+    "gene": "GJA8",
+    "gnn_rank": 968.0
+  },
+  {
+    "gene": "RNF5",
+    "gnn_rank": 969.0
+  },
+  {
+    "gene": "CDC25A",
+    "gnn_rank": 970.0
+  },
+  {
+    "gene": "SLMAP",
+    "gnn_rank": 974.0
+  },
+  {
+    "gene": "NID1",
+    "gnn_rank": 975.0
+  },
+  {
+    "gene": "STAB2",
+    "gnn_rank": 976.0
+  },
+  {
+    "gene": "CELSR2",
+    "gnn_rank": 978.0
+  },
+  {
+    "gene": "CA11",
+    "gnn_rank": 979.0
+  },
+  {
+    "gene": "MFAP5",
+    "gnn_rank": 980.0
+  },
+  {
+    "gene": "TFF1",
+    "gnn_rank": 981.0
+  },
+  {
+    "gene": "BRSK2",
+    "gnn_rank": 982.0
+  },
+  {
+    "gene": "CDH17",
+    "gnn_rank": 983.0
+  },
+  {
+    "gene": "FURIN",
+    "gnn_rank": 984.0
+  },
+  {
+    "gene": "CDKN1A",
+    "gnn_rank": 985.0
+  },
+  {
+    "gene": "CASP7",
+    "gnn_rank": 987.0
+  },
+  {
+    "gene": "IL15RA",
+    "gnn_rank": 988.0
+  },
+  {
+    "gene": "TREML1",
+    "gnn_rank": 993.0
+  },
+  {
+    "gene": "LSP1",
+    "gnn_rank": 995.0
+  },
+  {
+    "gene": "NFKBIE",
+    "gnn_rank": 996.0
+  },
+  {
+    "gene": "APCS",
+    "gnn_rank": 997.0
+  },
+  {
+    "gene": "ARID3A",
+    "gnn_rank": 998.0
+  },
+  {
+    "gene": "CEND1",
+    "gnn_rank": 999.0
+  },
+  {
+    "gene": "BNIP3L",
+    "gnn_rank": 1000.0
+  },
+  {
+    "gene": "HAVCR1",
+    "gnn_rank": 1001.0
+  },
+  {
+    "gene": "MLLT1",
+    "gnn_rank": 1002.0
+  },
+  {
+    "gene": "DNMBP",
+    "gnn_rank": 1003.0
+  },
+  {
+    "gene": "CASP3",
+    "gnn_rank": 1006.0
+  },
+  {
+    "gene": "F2",
+    "gnn_rank": 1008.0
+  },
+  {
+    "gene": "S100A16",
+    "gnn_rank": 1009.0
+  },
+  {
+    "gene": "CDH15",
+    "gnn_rank": 1010.0
+  },
+  {
+    "gene": "OTUD6B",
+    "gnn_rank": 1014.0
+  },
+  {
+    "gene": "ARHGAP1",
+    "gnn_rank": 1017.0
+  },
+  {
+    "gene": "TJAP1",
+    "gnn_rank": 1021.0
+  },
+  {
+    "gene": "BCL2L11",
+    "gnn_rank": 1022.0
+  },
+  {
+    "gene": "KIR3DL1",
+    "gnn_rank": 1024.0
+  },
+  {
+    "gene": "VSIR",
+    "gnn_rank": 1025.0
+  },
+  {
+    "gene": "BSND",
+    "gnn_rank": 1026.0
+  },
+  {
+    "gene": "HSD17B3",
+    "gnn_rank": 1028.0
+  },
+  {
+    "gene": "ITGB5",
+    "gnn_rank": 1030.0
+  },
+  {
+    "gene": "CD79B",
+    "gnn_rank": 1032.0
+  },
+  {
+    "gene": "PSMC3",
+    "gnn_rank": 1034.0
+  },
+  {
+    "gene": "IL3",
+    "gnn_rank": 1035.0
+  },
+  {
+    "gene": "CIT",
+    "gnn_rank": 1038.0
+  },
+  {
+    "gene": "CLINT1",
+    "gnn_rank": 1040.0
+  },
+  {
+    "gene": "MDK",
+    "gnn_rank": 1041.0
+  },
+  {
+    "gene": "BRD3",
+    "gnn_rank": 1042.0
+  },
+  {
+    "gene": "SUMF2",
+    "gnn_rank": 1044.0
+  },
+  {
+    "gene": "C4BPB",
+    "gnn_rank": 1046.0
+  },
+  {
+    "gene": "RETN",
+    "gnn_rank": 1047.0
+  },
+  {
+    "gene": "C1QTNF1",
+    "gnn_rank": 1050.0
+  },
+  {
+    "gene": "GZMA",
+    "gnn_rank": 1051.0
+  },
+  {
+    "gene": "RBM19",
+    "gnn_rank": 1052.0
+  },
+  {
+    "gene": "PTPRH",
+    "gnn_rank": 1053.0
+  },
+  {
+    "gene": "GLOD4",
+    "gnn_rank": 1055.0
+  },
+  {
+    "gene": "CD1C",
+    "gnn_rank": 1058.0
+  },
+  {
+    "gene": "ATP6V1D",
+    "gnn_rank": 1059.0
+  },
+  {
+    "gene": "GYS1",
+    "gnn_rank": 1061.0
+  },
+  {
+    "gene": "CA14",
+    "gnn_rank": 1062.0
+  },
+  {
+    "gene": "NPTX2",
+    "gnn_rank": 1063.0
+  },
+  {
+    "gene": "SMAD2",
+    "gnn_rank": 1064.0
+  },
+  {
+    "gene": "APOM",
+    "gnn_rank": 1065.0
+  },
+  {
+    "gene": "F12",
+    "gnn_rank": 1066.0
+  },
+  {
+    "gene": "FUT1",
+    "gnn_rank": 1067.0
+  },
+  {
+    "gene": "TGOLN2",
+    "gnn_rank": 1068.0
+  },
+  {
+    "gene": "NCLN",
+    "gnn_rank": 1070.0
+  },
+  {
+    "gene": "EEF1D",
+    "gnn_rank": 1072.0
+  },
+  {
+    "gene": "PCDH9",
+    "gnn_rank": 1075.0
+  },
+  {
+    "gene": "TNFRSF1A",
+    "gnn_rank": 1079.0
+  },
+  {
+    "gene": "CRIM1",
+    "gnn_rank": 1080.0
+  },
+  {
+    "gene": "IL36G",
+    "gnn_rank": 1083.0
+  },
+  {
+    "gene": "IL10RA",
+    "gnn_rank": 1085.0
+  },
+  {
+    "gene": "GIMAP8",
+    "gnn_rank": 1087.0
+  },
+  {
+    "gene": "BPIFA2",
+    "gnn_rank": 1088.0
+  },
+  {
+    "gene": "MBL2",
+    "gnn_rank": 1092.0
+  },
+  {
+    "gene": "FXN",
+    "gnn_rank": 1093.0
+  },
+  {
+    "gene": "APOD",
+    "gnn_rank": 1097.0
+  },
+  {
+    "gene": "PTGDS",
+    "gnn_rank": 1098.0
+  },
+  {
+    "gene": "PHOSPHO1",
+    "gnn_rank": 1101.0
+  },
+  {
+    "gene": "LILRA6",
+    "gnn_rank": 1105.0
+  },
+  {
+    "gene": "BRDT",
+    "gnn_rank": 1106.0
+  },
+  {
+    "gene": "SCT",
+    "gnn_rank": 1108.0
+  },
+  {
+    "gene": "ARHGEF5",
+    "gnn_rank": 1109.0
+  },
+  {
+    "gene": "LCN2",
+    "gnn_rank": 1110.0
+  },
+  {
+    "gene": "PYY",
+    "gnn_rank": 1111.0
+  },
+  {
+    "gene": "LAMP3",
+    "gnn_rank": 1112.0
+  },
+  {
+    "gene": "CLSTN1",
+    "gnn_rank": 1113.0
+  },
+  {
+    "gene": "BIN2",
+    "gnn_rank": 1116.0
+  },
+  {
+    "gene": "CFHR5",
+    "gnn_rank": 1119.0
+  },
+  {
+    "gene": "STC2",
+    "gnn_rank": 1120.0
+  },
+  {
+    "gene": "CAMKK1",
+    "gnn_rank": 1121.0
+  },
+  {
+    "gene": "COL18A1",
+    "gnn_rank": 1122.0
+  },
+  {
+    "gene": "COL1A1",
+    "gnn_rank": 1123.0
+  },
+  {
+    "gene": "BCAT1",
+    "gnn_rank": 1124.0
+  },
+  {
+    "gene": "BCAT2",
+    "gnn_rank": 1125.0
+  },
+  {
+    "gene": "TGFBI",
+    "gnn_rank": 1126.0
+  },
+  {
+    "gene": "ABL1",
+    "gnn_rank": 1127.0
+  },
+  {
+    "gene": "EPB41L5",
+    "gnn_rank": 1130.0
+  },
+  {
+    "gene": "HYAL1",
+    "gnn_rank": 1131.0
+  },
+  {
+    "gene": "ALDH3A1",
+    "gnn_rank": 1133.0
+  },
+  {
+    "gene": "STEAP4",
+    "gnn_rank": 1134.0
+  },
+  {
+    "gene": "SLC51B",
+    "gnn_rank": 1136.0
+  },
+  {
+    "gene": "PTP4A3",
+    "gnn_rank": 1140.0
+  },
+  {
+    "gene": "AKT1S1",
+    "gnn_rank": 1142.0
+  },
+  {
+    "gene": "CCND2",
+    "gnn_rank": 1143.0
+  },
+  {
+    "gene": "APOBR",
+    "gnn_rank": 1144.0
+  },
+  {
+    "gene": "MATN3",
+    "gnn_rank": 1146.0
+  },
+  {
+    "gene": "STK11",
+    "gnn_rank": 1147.0
+  },
+  {
+    "gene": "GNAS",
+    "gnn_rank": 1148.0
+  },
+  {
+    "gene": "SOD3",
+    "gnn_rank": 1149.0
+  },
+  {
+    "gene": "GLYR1",
+    "gnn_rank": 1150.0
+  },
+  {
+    "gene": "KCTD5",
+    "gnn_rank": 1153.0
+  },
+  {
+    "gene": "EVI5",
+    "gnn_rank": 1154.0
+  },
+  {
+    "gene": "LDLR",
+    "gnn_rank": 1155.0
+  },
+  {
+    "gene": "PODXL2",
+    "gnn_rank": 1158.0
+  },
+  {
+    "gene": "IL16",
+    "gnn_rank": 1159.0
+  },
+  {
+    "gene": "C1QTNF6",
+    "gnn_rank": 1160.0
+  },
+  {
+    "gene": "AZU1",
+    "gnn_rank": 1161.0
+  },
+  {
+    "gene": "ENG",
+    "gnn_rank": 1165.0
+  },
+  {
+    "gene": "PXN",
+    "gnn_rank": 1167.0
+  },
+  {
+    "gene": "TEK",
+    "gnn_rank": 1168.0
+  },
+  {
+    "gene": "TRPV3",
+    "gnn_rank": 1169.0
+  },
+  {
+    "gene": "AHCY",
+    "gnn_rank": 1171.0
+  },
+  {
+    "gene": "STX5",
+    "gnn_rank": 1175.0
+  },
+  {
+    "gene": "FST",
+    "gnn_rank": 1177.0
+  },
+  {
+    "gene": "TEF",
+    "gnn_rank": 1178.0
+  },
+  {
+    "gene": "CYB5A",
+    "gnn_rank": 1179.0
+  },
+  {
+    "gene": "GFER",
+    "gnn_rank": 1181.0
+  },
+  {
+    "gene": "ANXA5",
+    "gnn_rank": 1182.0
+  },
+  {
+    "gene": "DYNLT1",
+    "gnn_rank": 1183.0
+  },
+  {
+    "gene": "CHGB",
+    "gnn_rank": 1184.0
+  },
+  {
+    "gene": "IL21R",
+    "gnn_rank": 1188.0
+  },
+  {
+    "gene": "BCL2",
+    "gnn_rank": 1190.0
+  },
+  {
+    "gene": "KHDC3L",
+    "gnn_rank": 1193.0
+  },
+  {
+    "gene": "STAMBP",
+    "gnn_rank": 1194.0
+  },
+  {
+    "gene": "LGALS3",
+    "gnn_rank": 1195.0
+  },
+  {
+    "gene": "CCDC80",
+    "gnn_rank": 1197.0
+  },
+  {
+    "gene": "DPT",
+    "gnn_rank": 1199.0
+  },
+  {
+    "gene": "TXLNA",
+    "gnn_rank": 1200.0
+  },
+  {
+    "gene": "NDRG1",
+    "gnn_rank": 1202.0
+  },
+  {
+    "gene": "CPB2",
+    "gnn_rank": 1203.0
+  },
+  {
+    "gene": "CALCA",
+    "gnn_rank": 1205.0
+  },
+  {
+    "gene": "PRELP",
+    "gnn_rank": 1208.0
+  },
+  {
+    "gene": "BAG3",
+    "gnn_rank": 1209.0
+  },
+  {
+    "gene": "BAG6",
+    "gnn_rank": 1211.0
+  },
+  {
+    "gene": "NMRK2",
+    "gnn_rank": 1212.0
+  },
+  {
+    "gene": "WAS",
+    "gnn_rank": 1213.0
+  },
+  {
+    "gene": "MTUS1",
+    "gnn_rank": 1214.0
+  },
+  {
+    "gene": "CEBPB",
+    "gnn_rank": 1216.0
+  },
+  {
+    "gene": "KIAA1549L",
+    "gnn_rank": 1217.0
+  },
+  {
+    "gene": "DGKA",
+    "gnn_rank": 1219.0
+  },
+  {
+    "gene": "LEFTY2",
+    "gnn_rank": 1221.0
+  },
+  {
+    "gene": "GFAP",
+    "gnn_rank": 1222.0
+  },
+  {
+    "gene": "KAZALD1",
+    "gnn_rank": 1223.0
+  },
+  {
+    "gene": "SLC12A2",
+    "gnn_rank": 1225.0
+  },
+  {
+    "gene": "CKAP4",
+    "gnn_rank": 1230.0
+  },
+  {
+    "gene": "DLL4",
+    "gnn_rank": 1231.0
+  },
+  {
+    "gene": "BHLHE40",
+    "gnn_rank": 1232.0
+  },
+  {
+    "gene": "ATF4",
+    "gnn_rank": 1233.0
+  },
+  {
+    "gene": "PKLR",
+    "gnn_rank": 1235.0
+  },
+  {
+    "gene": "GUK1",
+    "gnn_rank": 1237.0
+  },
+  {
+    "gene": "DGKZ",
+    "gnn_rank": 1238.0
+  },
+  {
+    "gene": "LAMA1",
+    "gnn_rank": 1241.0
+  },
+  {
+    "gene": "TMPRSS5",
+    "gnn_rank": 1242.0
+  },
+  {
+    "gene": "GIPC2",
+    "gnn_rank": 1243.0
+  },
+  {
+    "gene": "ULBP2",
+    "gnn_rank": 1245.0
+  },
+  {
+    "gene": "MTR",
+    "gnn_rank": 1246.0
+  },
+  {
+    "gene": "DCTN2",
+    "gnn_rank": 1249.0
+  },
+  {
+    "gene": "CGREF1",
+    "gnn_rank": 1250.0
+  },
+  {
+    "gene": "GLO1",
+    "gnn_rank": 1253.0
+  },
+  {
+    "gene": "MMP15",
+    "gnn_rank": 1256.0
+  },
+  {
+    "gene": "GATA3",
+    "gnn_rank": 1257.0
+  },
+  {
+    "gene": "APOL1",
+    "gnn_rank": 1258.0
+  },
+  {
+    "gene": "RBFOX3",
+    "gnn_rank": 1259.0
+  },
+  {
+    "gene": "CEP164",
+    "gnn_rank": 1261.0
+  },
+  {
+    "gene": "TGFA",
+    "gnn_rank": 1262.0
+  },
+  {
+    "gene": "PVALB",
+    "gnn_rank": 1263.0
+  },
+  {
+    "gene": "GAL",
+    "gnn_rank": 1264.0
+  },
+  {
+    "gene": "VGF",
+    "gnn_rank": 1265.0
+  },
+  {
+    "gene": "RRM2",
+    "gnn_rank": 1266.0
+  },
+  {
+    "gene": "TEX33",
+    "gnn_rank": 1268.0
+  },
+  {
+    "gene": "COL24A1",
+    "gnn_rank": 1269.0
+  },
+  {
+    "gene": "POLR2F",
+    "gnn_rank": 1271.0
+  },
+  {
+    "gene": "SERPINF1",
+    "gnn_rank": 1272.0
+  },
+  {
+    "gene": "TP53",
+    "gnn_rank": 1273.0
+  },
+  {
+    "gene": "RAB6B",
+    "gnn_rank": 1274.0
+  },
+  {
+    "gene": "PRKRA",
+    "gnn_rank": 1277.0
+  },
+  {
+    "gene": "VIM",
+    "gnn_rank": 1278.0
+  },
+  {
+    "gene": "NPL",
+    "gnn_rank": 1279.0
+  },
+  {
+    "gene": "MXRA8",
+    "gnn_rank": 1281.0
+  },
+  {
+    "gene": "LILRB4",
+    "gnn_rank": 1286.0
+  },
+  {
+    "gene": "PNLIPRP1",
+    "gnn_rank": 1287.0
+  },
+  {
+    "gene": "AXIN1",
+    "gnn_rank": 1288.0
+  },
+  {
+    "gene": "CDON",
+    "gnn_rank": 1291.0
+  },
+  {
+    "gene": "CLIC5",
+    "gnn_rank": 1292.0
+  },
+  {
+    "gene": "TRIM5",
+    "gnn_rank": 1293.0
+  },
+  {
+    "gene": "SDCCAG8",
+    "gnn_rank": 1294.0
+  },
+  {
+    "gene": "PGR",
+    "gnn_rank": 1295.0
+  },
+  {
+    "gene": "EGFL7",
+    "gnn_rank": 1297.0
+  },
+  {
+    "gene": "GOLGA3",
+    "gnn_rank": 1299.0
+  },
+  {
+    "gene": "WFIKKN2",
+    "gnn_rank": 1300.0
+  },
+  {
+    "gene": "IL18R1",
+    "gnn_rank": 1301.0
+  },
+  {
+    "gene": "AKT3",
+    "gnn_rank": 1303.0
+  },
+  {
+    "gene": "ENPEP",
+    "gnn_rank": 1304.0
+  },
+  {
+    "gene": "EBI3",
+    "gnn_rank": 1308.0
+  },
+  {
+    "gene": "BMP6",
+    "gnn_rank": 1309.0
+  },
+  {
+    "gene": "CD34",
+    "gnn_rank": 1311.0
+  },
+  {
+    "gene": "ARTN",
+    "gnn_rank": 1312.0
+  },
+  {
+    "gene": "KIF1C",
+    "gnn_rank": 1313.0
+  },
+  {
+    "gene": "AKT2",
+    "gnn_rank": 1315.0
+  },
+  {
+    "gene": "TFF2",
+    "gnn_rank": 1317.0
+  },
+  {
+    "gene": "DDX1",
+    "gnn_rank": 1318.0
+  },
+  {
+    "gene": "DNM1",
+    "gnn_rank": 1319.0
+  },
+  {
+    "gene": "CSNK1D",
+    "gnn_rank": 1320.0
+  },
+  {
+    "gene": "DAND5",
+    "gnn_rank": 1321.0
+  },
+  {
+    "gene": "PGD",
+    "gnn_rank": 1322.0
+  },
+  {
+    "gene": "LZTFL1",
+    "gnn_rank": 1324.0
+  },
+  {
+    "gene": "DYNC1H1",
+    "gnn_rank": 1325.0
+  },
+  {
+    "gene": "CDA",
+    "gnn_rank": 1326.0
+  },
+  {
+    "gene": "CDK1",
+    "gnn_rank": 1327.0
+  },
+  {
+    "gene": "TRAF3IP2",
+    "gnn_rank": 1330.0
+  },
+  {
+    "gene": "SPRR3",
+    "gnn_rank": 1331.0
+  },
+  {
+    "gene": "SORBS1",
+    "gnn_rank": 1332.0
+  },
+  {
+    "gene": "EPO",
+    "gnn_rank": 1333.0
+  },
+  {
+    "gene": "EFHD1",
+    "gnn_rank": 1334.0
+  },
+  {
+    "gene": "KIF22",
+    "gnn_rank": 1337.0
+  },
+  {
+    "gene": "PAMR1",
+    "gnn_rank": 1340.0
+  },
+  {
+    "gene": "MPRIP",
+    "gnn_rank": 1342.0
+  },
+  {
+    "gene": "BLNK",
+    "gnn_rank": 1343.0
+  },
+  {
+    "gene": "COL4A1",
+    "gnn_rank": 1344.0
+  },
+  {
+    "gene": "FLI1",
+    "gnn_rank": 1345.0
+  },
+  {
+    "gene": "TPK1",
+    "gnn_rank": 1348.0
+  },
+  {
+    "gene": "CDH3",
+    "gnn_rank": 1351.0
+  },
+  {
+    "gene": "WDR46",
+    "gnn_rank": 1352.0
+  },
+  {
+    "gene": "CRLF1",
+    "gnn_rank": 1353.0
+  },
+  {
+    "gene": "SHISA5",
+    "gnn_rank": 1354.0
+  },
+  {
+    "gene": "IGSF3",
+    "gnn_rank": 1355.0
+  },
+  {
+    "gene": "MAPK9",
+    "gnn_rank": 1357.0
+  },
+  {
+    "gene": "HRAS",
+    "gnn_rank": 1358.0
+  },
+  {
+    "gene": "KRT6C",
+    "gnn_rank": 1359.0
+  },
+  {
+    "gene": "PNLIPRP2",
+    "gnn_rank": 1362.0
+  },
+  {
+    "gene": "BRD2",
+    "gnn_rank": 1364.0
+  },
+  {
+    "gene": "CLSPN",
+    "gnn_rank": 1365.0
+  },
+  {
+    "gene": "FOS",
+    "gnn_rank": 1368.0
+  },
+  {
+    "gene": "TP73",
+    "gnn_rank": 1370.0
+  },
+  {
+    "gene": "CIAPIN1",
+    "gnn_rank": 1372.0
+  },
+  {
+    "gene": "FGR",
+    "gnn_rank": 1374.0
+  },
+  {
+    "gene": "FGF9",
+    "gnn_rank": 1375.0
+  },
+  {
+    "gene": "CST3",
+    "gnn_rank": 1377.0
+  },
+  {
+    "gene": "BAMBI",
+    "gnn_rank": 1378.0
+  },
+  {
+    "gene": "CSNK2A1",
+    "gnn_rank": 1379.0
+  },
+  {
+    "gene": "GRIN2B",
+    "gnn_rank": 1380.0
+  },
+  {
+    "gene": "CYP24A1",
+    "gnn_rank": 1381.0
+  },
+  {
+    "gene": "CCL8",
+    "gnn_rank": 1382.0
+  },
+  {
+    "gene": "CCL16",
+    "gnn_rank": 1385.0
+  },
+  {
+    "gene": "CDH6",
+    "gnn_rank": 1387.0
+  },
+  {
+    "gene": "CDH2",
+    "gnn_rank": 1388.0
+  },
+  {
+    "gene": "CBX2",
+    "gnn_rank": 1389.0
+  },
+  {
+    "gene": "RASA1",
+    "gnn_rank": 1390.0
+  },
+  {
+    "gene": "SAA4",
+    "gnn_rank": 1391.0
+  },
+  {
+    "gene": "MORC3",
+    "gnn_rank": 1392.0
+  },
+  {
+    "gene": "ADAMTS1",
+    "gnn_rank": 1393.0
+  },
+  {
+    "gene": "CLEC1B",
+    "gnn_rank": 1395.0
+  },
+  {
+    "gene": "RYR1",
+    "gnn_rank": 1396.0
+  },
+  {
+    "gene": "TNFRSF10C",
+    "gnn_rank": 1397.0
+  },
+  {
+    "gene": "RWDD1",
+    "gnn_rank": 1399.0
+  },
+  {
+    "gene": "TNIP1",
+    "gnn_rank": 1400.0
+  },
+  {
+    "gene": "CNST",
+    "gnn_rank": 1401.0
+  },
+  {
+    "gene": "DCLRE1C",
+    "gnn_rank": 1402.0
+  },
+  {
+    "gene": "UXS1",
+    "gnn_rank": 1403.0
+  },
+  {
+    "gene": "CCL25",
+    "gnn_rank": 1404.0
+  },
+  {
+    "gene": "SUSD1",
+    "gnn_rank": 1406.0
+  },
+  {
+    "gene": "PALM2",
+    "gnn_rank": 1407.0
+  },
+  {
+    "gene": "CRISP2",
+    "gnn_rank": 1408.0
+  },
+  {
+    "gene": "HS3ST3B1",
+    "gnn_rank": 1409.0
+  },
+  {
+    "gene": "THOP1",
+    "gnn_rank": 1410.0
+  },
+  {
+    "gene": "IL6R",
+    "gnn_rank": 1411.0
+  },
+  {
+    "gene": "PPP3R1",
+    "gnn_rank": 1412.0
+  },
+  {
+    "gene": "PEPD",
+    "gnn_rank": 1414.0
+  },
+  {
+    "gene": "ITIH1",
+    "gnn_rank": 1415.0
+  },
+  {
+    "gene": "TNFAIP8L2",
+    "gnn_rank": 1417.0
+  },
+  {
+    "gene": "RABGAP1L",
+    "gnn_rank": 1420.0
+  },
+  {
+    "gene": "CEACAM21",
+    "gnn_rank": 1421.0
+  },
+  {
+    "gene": "TCP11",
+    "gnn_rank": 1422.0
+  },
+  {
+    "gene": "ANXA4",
+    "gnn_rank": 1423.0
+  },
+  {
+    "gene": "CUZD1",
+    "gnn_rank": 1424.0
+  },
+  {
+    "gene": "GAS2",
+    "gnn_rank": 1425.0
+  },
+  {
+    "gene": "ANGPTL4",
+    "gnn_rank": 1426.0
+  },
+  {
+    "gene": "CFHR4",
+    "gnn_rank": 1427.0
+  },
+  {
+    "gene": "ACSL1",
+    "gnn_rank": 1428.0
+  },
+  {
+    "gene": "ENOPH1",
+    "gnn_rank": 1431.0
+  },
+  {
+    "gene": "JUN",
+    "gnn_rank": 1432.0
+  },
+  {
+    "gene": "CSF3",
+    "gnn_rank": 1433.0
+  },
+  {
+    "gene": "CLEC4M",
+    "gnn_rank": 1435.0
+  },
+  {
+    "gene": "MSMB",
+    "gnn_rank": 1436.0
+  },
+  {
+    "gene": "PLCB2",
+    "gnn_rank": 1437.0
+  },
+  {
+    "gene": "IL17RA",
+    "gnn_rank": 1439.0
+  },
+  {
+    "gene": "CD164L2",
+    "gnn_rank": 1440.0
+  },
+  {
+    "gene": "IGDCC3",
+    "gnn_rank": 1441.0
+  },
+  {
+    "gene": "EIF4B",
+    "gnn_rank": 1445.0
+  },
+  {
+    "gene": "RAC3",
+    "gnn_rank": 1450.0
+  },
+  {
+    "gene": "TOP1MT",
+    "gnn_rank": 1451.0
+  },
+  {
+    "gene": "DNER",
+    "gnn_rank": 1452.0
+  },
+  {
+    "gene": "CDH23",
+    "gnn_rank": 1453.0
+  },
+  {
+    "gene": "CDH22",
+    "gnn_rank": 1454.0
+  },
+  {
+    "gene": "PM20D1",
+    "gnn_rank": 1455.0
+  },
+  {
+    "gene": "PTN",
+    "gnn_rank": 1458.0
+  },
+  {
+    "gene": "CLEC11A",
+    "gnn_rank": 1459.0
+  },
+  {
+    "gene": "CNTNAP4",
+    "gnn_rank": 1462.0
+  },
+  {
+    "gene": "PACS2",
+    "gnn_rank": 1463.0
+  },
+  {
+    "gene": "SCGB2A2",
+    "gnn_rank": 1464.0
+  },
+  {
+    "gene": "PTPRF",
+    "gnn_rank": 1465.0
+  },
+  {
+    "gene": "UNC79",
+    "gnn_rank": 1466.0
+  },
+  {
+    "gene": "CPA4",
+    "gnn_rank": 1467.0
+  },
+  {
+    "gene": "SCN2A",
+    "gnn_rank": 1468.0
+  },
+  {
+    "gene": "GABRA4",
+    "gnn_rank": 1470.0
+  },
+  {
+    "gene": "TALDO1",
+    "gnn_rank": 1474.0
+  },
+  {
+    "gene": "SEMA6C",
+    "gnn_rank": 1475.0
+  },
+  {
+    "gene": "CEACAM8",
+    "gnn_rank": 1479.0
+  },
+  {
+    "gene": "ABO",
+    "gnn_rank": 1481.0
+  },
+  {
+    "gene": "RNF41",
+    "gnn_rank": 1483.0
+  },
+  {
+    "gene": "DOC2B",
+    "gnn_rank": 1486.0
+  },
+  {
+    "gene": "STX1B",
+    "gnn_rank": 1487.0
+  },
+  {
+    "gene": "PDRG1",
+    "gnn_rank": 1489.0
+  },
+  {
+    "gene": "ARHGAP30",
+    "gnn_rank": 1491.0
+  },
+  {
+    "gene": "JAM3",
+    "gnn_rank": 1493.0
+  },
+  {
+    "gene": "STX4",
+    "gnn_rank": 1495.0
+  },
+  {
+    "gene": "SCRN1",
+    "gnn_rank": 1497.0
+  },
+  {
+    "gene": "SLIT2",
+    "gnn_rank": 1498.0
+  },
+  {
+    "gene": "IL2RB",
+    "gnn_rank": 1499.0
+  },
+  {
+    "gene": "ARHGEF1",
+    "gnn_rank": 1501.0
+  },
+  {
+    "gene": "IFT20",
+    "gnn_rank": 1502.0
+  },
+  {
+    "gene": "ITGB1BP1",
+    "gnn_rank": 1505.0
+  },
+  {
+    "gene": "CCL28",
+    "gnn_rank": 1506.0
+  },
+  {
+    "gene": "CHL1",
+    "gnn_rank": 1507.0
+  },
+  {
+    "gene": "QPCT",
+    "gnn_rank": 1508.0
+  },
+  {
+    "gene": "NCS1",
+    "gnn_rank": 1509.0
+  },
+  {
+    "gene": "LETM1",
+    "gnn_rank": 1510.0
+  },
+  {
+    "gene": "ACRBP",
+    "gnn_rank": 1512.0
+  },
+  {
+    "gene": "KLK1",
+    "gnn_rank": 1513.0
+  },
+  {
+    "gene": "DTX3",
+    "gnn_rank": 1514.0
+  },
+  {
+    "gene": "RGS8",
+    "gnn_rank": 1516.0
+  },
+  {
+    "gene": "APOB",
+    "gnn_rank": 1519.0
+  },
+  {
+    "gene": "NACC1",
+    "gnn_rank": 1520.0
+  },
+  {
+    "gene": "ZBTB16",
+    "gnn_rank": 1523.0
+  },
+  {
+    "gene": "SV2A",
+    "gnn_rank": 1524.0
+  },
+  {
+    "gene": "FABP2",
+    "gnn_rank": 1525.0
+  },
+  {
+    "gene": "SERPING1",
+    "gnn_rank": 1526.0
+  },
+  {
+    "gene": "CDHR1",
+    "gnn_rank": 1529.0
+  },
+  {
+    "gene": "KLF4",
+    "gnn_rank": 1530.0
+  },
+  {
+    "gene": "ZBTB17",
+    "gnn_rank": 1532.0
+  },
+  {
+    "gene": "ENO2",
+    "gnn_rank": 1535.0
+  },
+  {
+    "gene": "SMARCA2",
+    "gnn_rank": 1537.0
+  },
+  {
+    "gene": "TACSTD2",
+    "gnn_rank": 1538.0
+  },
+  {
+    "gene": "VAT1",
+    "gnn_rank": 1540.0
+  },
+  {
+    "gene": "CACNB3",
+    "gnn_rank": 1541.0
+  },
+  {
+    "gene": "GMPR",
+    "gnn_rank": 1542.0
+  },
+  {
+    "gene": "UPK3A",
+    "gnn_rank": 1544.0
+  },
+  {
+    "gene": "CLGN",
+    "gnn_rank": 1545.0
+  },
+  {
+    "gene": "IL15",
+    "gnn_rank": 1547.0
+  },
+  {
+    "gene": "MAG",
+    "gnn_rank": 1548.0
+  },
+  {
+    "gene": "CACNA1C",
+    "gnn_rank": 1553.0
+  },
+  {
+    "gene": "GAPDH",
+    "gnn_rank": 1555.0
+  },
+  {
+    "gene": "ADIPOQ",
+    "gnn_rank": 1557.0
+  },
+  {
+    "gene": "ADRA2A",
+    "gnn_rank": 1558.0
+  },
+  {
+    "gene": "AGRN",
+    "gnn_rank": 1561.0
+  },
+  {
+    "gene": "DOCK9",
+    "gnn_rank": 1563.0
+  },
+  {
+    "gene": "ELN",
+    "gnn_rank": 1564.0
+  },
+  {
+    "gene": "OXT",
+    "gnn_rank": 1565.0
+  },
+  {
+    "gene": "COCH",
+    "gnn_rank": 1566.0
+  },
+  {
+    "gene": "CSPG5",
+    "gnn_rank": 1567.0
+  },
+  {
+    "gene": "RABEPK",
+    "gnn_rank": 1568.0
+  },
+  {
+    "gene": "BGN",
+    "gnn_rank": 1569.0
+  },
+  {
+    "gene": "TNC",
+    "gnn_rank": 1570.0
+  },
+  {
+    "gene": "CES2",
+    "gnn_rank": 1573.0
+  },
+  {
+    "gene": "GRK5",
+    "gnn_rank": 1574.0
+  },
+  {
+    "gene": "LPL",
+    "gnn_rank": 1575.0
+  },
+  {
+    "gene": "KLRF1",
+    "gnn_rank": 1576.0
+  },
+  {
+    "gene": "CD300LG",
+    "gnn_rank": 1577.0
+  },
+  {
+    "gene": "BACH1",
+    "gnn_rank": 1578.0
+  },
+  {
+    "gene": "BRD1",
+    "gnn_rank": 1580.0
+  },
+  {
+    "gene": "PTPRS",
+    "gnn_rank": 1581.0
+  },
+  {
+    "gene": "BCHE",
+    "gnn_rank": 1582.0
+  },
+  {
+    "gene": "RPA2",
+    "gnn_rank": 1583.0
+  },
+  {
+    "gene": "PNLIP",
+    "gnn_rank": 1584.0
+  },
+  {
+    "gene": "NAP1L4",
+    "gnn_rank": 1588.0
+  },
+  {
+    "gene": "SDC1",
+    "gnn_rank": 1589.0
+  },
+  {
+    "gene": "MYH4",
+    "gnn_rank": 1590.0
+  },
+  {
+    "gene": "CD3E",
+    "gnn_rank": 1591.0
+  },
+  {
+    "gene": "NFATC1",
+    "gnn_rank": 1592.0
+  },
+  {
+    "gene": "CD226",
+    "gnn_rank": 1595.0
+  },
+  {
+    "gene": "VTA1",
+    "gnn_rank": 1596.0
+  },
+  {
+    "gene": "C1S",
+    "gnn_rank": 1597.0
+  },
+  {
+    "gene": "AMY2A",
+    "gnn_rank": 1598.0
+  },
+  {
+    "gene": "PREB",
+    "gnn_rank": 1599.0
+  },
+  {
+    "gene": "OGN",
+    "gnn_rank": 1600.0
+  },
+  {
+    "gene": "FGA",
+    "gnn_rank": 1602.0
+  },
+  {
+    "gene": "GUCA2A",
+    "gnn_rank": 1603.0
+  },
+  {
+    "gene": "CPA2",
+    "gnn_rank": 1604.0
+  },
+  {
+    "gene": "FUCA1",
+    "gnn_rank": 1605.0
+  },
+  {
+    "gene": "ARG1",
+    "gnn_rank": 1606.0
+  },
+  {
+    "gene": "CD6",
+    "gnn_rank": 1607.0
+  },
+  {
+    "gene": "YY1",
+    "gnn_rank": 1608.0
+  },
+  {
+    "gene": "REST",
+    "gnn_rank": 1609.0
+  },
+  {
+    "gene": "VIT",
+    "gnn_rank": 1610.0
+  },
+  {
+    "gene": "LARP1",
+    "gnn_rank": 1611.0
+  },
+  {
+    "gene": "CLTA",
+    "gnn_rank": 1614.0
+  },
+  {
+    "gene": "TPD52L2",
+    "gnn_rank": 1615.0
+  },
+  {
+    "gene": "CACYBP",
+    "gnn_rank": 1616.0
+  },
+  {
+    "gene": "KIAA2013",
+    "gnn_rank": 1617.0
+  },
+  {
+    "gene": "TPSD1",
+    "gnn_rank": 1619.0
+  }
+]
