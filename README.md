@@ -45,7 +45,7 @@ crystal structures**; **679** were successfully scored by fpocket.
   RAB27A) is reported as hypotheses for tractable targets in the exercise-ageing
   network.
 
-![druggability landscape](results/druggability_landscape.png)
+![Druggability landscape](results/druggability_landscape.png)
 
 ## Honest scope and limitations
 
