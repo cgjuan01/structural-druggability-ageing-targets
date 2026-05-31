@@ -18,7 +18,7 @@ prioritisation answers *which proteins matter*; it does not answer *which can be
 drugged*. This project assesses the **structural druggability** of the top-ranked
 targets — i.e. whether each protein presents a ligand-binding pocket with
 drug-like geometry — using structure-based pocket detection independent of prior
-medicinal-chemistry attention.
+medicinal chemistry attention.
 
 ## Pipeline
 
