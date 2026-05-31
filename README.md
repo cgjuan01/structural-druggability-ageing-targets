@@ -73,7 +73,7 @@ exercise-responsive genes with biological-ageing-clock support (Horvath, Hannum,
 DunedinPACE, PhenoAge, Proteomic clock). See:
 
 > Juan CG, Ntasis L (2026). Multi-omic deep learning identifies
-> exercise-responsive ageing pathways in humans. medRxiv [preprint].
+> exercise-responsive ageing pathways in humans. medRxiv [preprint]. https://www.medrxiv.org/content/10.64898/2025.12.26.25343061v2
 
 This druggability assessment is an independent extension of that work.
 
