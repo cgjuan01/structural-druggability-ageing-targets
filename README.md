@@ -56,7 +56,7 @@ druggability. Specifically:
   biologically relevant pocket (e.g. a catalytic site absent from a particular
   construct), so *individual* gene scores are hypotheses; the *aggregate*
   distribution is robust, individual calls are not. Some scores are clearly
-  structure-artifacts (e.g. anomalously large pocket volumes from multi-domain
+  structure artifacts (e.g. anomalously large pocket volumes from multi-domain
   complexes). Rigorous per-target analysis would curate multiple structures.
 - **Crystal-structure subset.** The 58 % applies to targets with experimental
   structures, which are disproportionately well-studied proteins; the figure is
@@ -68,7 +68,7 @@ druggability. Specifically:
 
 ## Context
 
-The prioritised targets derive from a graph-attention-network analysis of
+The prioritised targets derive from a graph attention network analysis of
 exercise-responsive genes with biological-ageing-clock support (Horvath, Hannum,
 DunedinPACE, PhenoAge, Proteomic clock). See:
 
